@@ -1,0 +1,13 @@
+{
+  "name": "hamster-kombat-calculator",
+  "version": "1.0.0",
+  "description": "Hamster Kombat Upgrade Profit Calculator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^4.6.0"
+  }
+}
